@@ -1,5 +1,6 @@
 import React from "react";
 import myphoto from "../assets/myphoto.jpg";
+// myphoto
 
 const ProfileSection = () => {
   return (
